@@ -2,3 +2,6 @@ name: MetalCarft
 version: '${version}'
 main: fr.metalcraft.main
 api-version: '1.20'
+
+command:
+  Broadcast:
